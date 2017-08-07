@@ -3,5 +3,5 @@ The system provides information about the current application server. In a load 
 
 Once the B2 is installed the url will be: /webapps/dtii-AppID-bb_bb60/index.jsp
 
-![Alt text](Screen Shot 2017-08-07 at 10.10.46 AM.png?raw=true "screenshot")
+![Alt text]('Screen Shot 2017-08-07 at 10.10.46 AM.png'?raw=true "screenshot")
 
